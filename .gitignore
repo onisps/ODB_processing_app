@@ -1,0 +1,11 @@
+extracted_data/
+dist
+abaqus_work/
+.venv/
+__pycache__/
+app/__pycache__/
+app/core/__pycache__/
+app/utils/__pycache__/
+app/gui/__pycache__/
+app/gui/widgets/__pycache__/
+scripts/__pycache__
