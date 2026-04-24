@@ -1,0 +1,7 @@
+PyQt6
+matplotlib
+numpy
+pandas
+openpyxl
+h5py
+pyinstaller
