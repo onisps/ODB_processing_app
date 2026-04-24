@@ -1,6 +1,0 @@
-Traceback (most recent call last):
-  File "C:\Users\airgo\Documents\trae_projects\ODB_processing_app\scripts\odb_extractor.py", line 448, in main
-    extract_odb(odb_path, export_root, selection)
-  File "C:\Users\airgo\Documents\trae_projects\ODB_processing_app\scripts\odb_extractor.py", line 353, in extract_odb
-    ["Time", header_name],
-UnboundLocalError: local variable 'header_name' referenced before assignment
